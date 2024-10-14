@@ -10,13 +10,13 @@ I have also built translation layers between MongoDB and Big Data lakes in real 
 
 ## About Me
 
-## Specialties
+### Specialties
 - **CSaaS API Implementations**: Expertise in integrating and optimizing communication APIs.
 - **Full Stack Development**: Proficient in both front-end and back-end technologies.
 - **HR Technology Solutions**: Experience in designing and implementing 401k and other HR software tools.
 - **Data Integration**: Skilled in building translation layers between MongoDB and Big Data lakes with custom-built ETLs.
 
-## Technologies & Languages
+### Technologies & Languages
 - **Languages**: Python, JavaScript, TypeScript
 - **Front-End**: React
 - **Back-End**: MongoDB, SQL, Redis, BigQuery
